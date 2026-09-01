@@ -1,0 +1,5 @@
+a = range(20)
+print(list(a))
+print(tuple(a))
+c = list(range(1, 20))
+print(c)
